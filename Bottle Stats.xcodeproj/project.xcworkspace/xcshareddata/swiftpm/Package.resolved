@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AppPear/ChartView",
+        "state": {
+          "branch": null,
+          "revision": "841bde137775a3f59fccf7189bab8ffa012032fd",
+          "version": "1.4.8"
+        }
+      },
+      {
+        "package": "ModalView",
+        "repositoryURL": "https://github.com/diniska/modal-view",
+        "state": {
+          "branch": "master",
+          "revision": "ad7c17cbbdf0662f3defc5bfefd6d912d458d4a4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
